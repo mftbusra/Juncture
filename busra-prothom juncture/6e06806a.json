@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "angry looking cat!\n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/3dcd3274-4949-417c-8e8f-6cc2ccbea63d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3560.381591796875,235.6371612548828,1722.854248046875,3565.859909057617"
+      },
+      "id": "6e06806a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bfb06914"
+  }
+]
